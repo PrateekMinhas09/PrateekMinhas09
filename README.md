@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrateekMinhas09
-- 👀 I’m interested in developing applications , games , websites , UI/UX 
+- 👀 I’m interested in A SHIT TON OF THINGS 
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
