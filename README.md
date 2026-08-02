@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrateekMinhas09
-- 👀 I’m interested in design , development, coding , singing and a lot more  
-- 🌱 I’m currently learning Python and Excel
-- 💞️ I’m looking to collaborate on Data Analytics Projects 
+- 👀 I’m interested in design , development, coding , illustrations , data analytics and a lot more  
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking for a full time job or an internship, iam very much unemployed  
 - 📫 How to reach me -- via email - "prateekminhas09@gmail.com"
 
 <!---
