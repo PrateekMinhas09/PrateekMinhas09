@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning flutter
 - 💞️ I have a very diverse skill set
 - 📫 How to reach me -- via email - "prateekminhas09@gmail.com"
+- behance account: https://www.behance.net/prateekminhas09
+- Medium profile: https://medium.com/@minhasprateek0
 
 <!---
 PrateekMinhas09/PrateekMinhas09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
