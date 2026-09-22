@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrateekMinhas09 and I’m looking for a full time job, 
-- 🌱 I’m currently learning flutter 
+- 🌱 I’m currently learning Detection Engineering, Linux and Networking 
 - 💞️ I have a very diverse skill set
 - 📫 How to reach me -- via email - "prateekminhas09@gmail.com"
 - behance account: https://www.behance.net/prateekminhas09
